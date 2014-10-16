@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[btn:home|Door43 (btn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-btn|d43-btn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-btn/archive/master.zip|d43-btn.zip]]
+
+**Recent Changes**
+{{changes>ns = btn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/btn|Ethnologue data]]
+
